@@ -172,6 +172,23 @@ ul li:hover{
 .row_2 .item:hover .down-content a{
 	background-color: plum;
 }
+footer{
+	margin-top: 150px;
+	background-color: #0071f8;
+	background-size: cover;
+	min-height: 150px;
+	border-radius: 150px 150px 0px 0px;
+}
+
+footer p{
+	text-align: center;
+	color: white;
+	font-size: large;
+	font-family: sans-serif;
+    font-weight: 200;
+	line-height: 90px;
+}
+
 
 
 
